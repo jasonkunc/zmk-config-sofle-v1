@@ -57,7 +57,7 @@
 &none   &none   &none   &none   &none   &kp F11                   &kp F12   &none     &none   &none      &none    &kp LBKT
 &none   &none   &none   &none   &mo 2   &mo 3                     &kp LEFT  &kp DOWN  &kp UP  &kp RIGHT  &none    &kp LBRC
 &trans  &none   &none   &none   &none   &none    &none     &none  &none     &none     &none   &none      &none    &kp BSLH
-                &none   &none   &none   &none    &trans    &none  &none     &none     &none   &none
+                &none   &none   &none   &none    &trans    &mo 4  &none     &none     &none   &none
             >;
         };
 
